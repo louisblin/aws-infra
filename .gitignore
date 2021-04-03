@@ -1,3 +1,9 @@
+# Direnv
+.envrc
+
+# Terraform
 .terraform
 .terraform.lock.hcl
-terraform.tfvars
+
+# Outputs
+*.img
